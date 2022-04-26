@@ -1,0 +1,2 @@
+# Andrioid-application-
+This is an android application which was made with Android studio using Java. The application is a game called colour switch. This game is played by clicking on a rotator consisting of 4 different coloured cones. The user needs to match the random cone colour to the cone colour which will be displayed by random on the top of the rotator within a time frame. Keep matching within the time frame to get the highest score.
